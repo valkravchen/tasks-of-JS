@@ -1,0 +1,1 @@
+const isMister = (greeting) => greeting === 'Mister';
