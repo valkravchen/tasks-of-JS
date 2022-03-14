@@ -1,0 +1,1 @@
+const isPensioner = (age) => age >= 60;
