@@ -1,0 +1,1 @@
+const isInternationalPhone = (phone) => phone[0] === '+';
