@@ -1,1 +1,0 @@
-const uniTotal = str => [...str].reduce((acc, char) => acc + char.charCodeAt(0), 0);
